@@ -1,0 +1,1 @@
+alert("Haga click para añadir extensión")
